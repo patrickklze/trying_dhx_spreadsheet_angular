@@ -1,6 +1,6 @@
 import { Component, ElementRef, Input, AfterViewInit, OnInit, OnDestroy, ViewChild } from '@angular/core';
 import { Spreadsheet } from 'dhx-spreadsheet';
-import './codebase/spreadsheet.css';
+// import './codebase/spreadsheet.css';
 
 @Component({
   selector: 'app-spreadsheet',
